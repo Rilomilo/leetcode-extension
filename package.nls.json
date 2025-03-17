@@ -66,7 +66,7 @@
     "main.contributes.configuration.properties.leetcode-problem-rating.hint.configWebviewMarkdown.description": "Show a hint to change webview appearance through markdown config.",
     "main.contributes.configuration.properties.leetcode-problem-rating.hint.commentDescription.description": "Show a hint to enable comment description in solution code file.",
     "main.contributes.configuration.properties.leetcode-problem-rating.hint.commandShortcut.description": "Show a hint to configure commands key binding.",
-    "main.contributes.configuration.properties.leetcode-problem-rating.useVscodeNode.description": "Try the node version of vecode.",
+    "main.contributes.configuration.properties.leetcode-problem-rating.useVscodeNode.description": "Try the node version of vscode.",
     "main.contributes.configuration.properties.leetcode-problem-rating.useWsl.description": "Use the Windows Subsystem for Linux.",
     "main.contributes.configuration.properties.leetcode-problem-rating.endpoint.description": "Endpoint of the user account.",
     "main.contributes.configuration.properties.leetcode-problem-rating.useEndpointTranslation.description": "Use endpoint's translation (if available)",
